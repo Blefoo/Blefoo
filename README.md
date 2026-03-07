@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats
 
 <a href="https://github.com/Blefoo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blefoo&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width=355px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blefoo&layout=compact&theme=dark" width="355px"/>
 </a>
 
 ---
