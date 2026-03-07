@@ -9,9 +9,7 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Blefoo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blefoo&layout=compact&theme=dark" width="355px"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blefoo)](https://github.com/anuraghazr/github-readme-stats)
 
 ---
 
