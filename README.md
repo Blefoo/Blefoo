@@ -2,7 +2,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Blefoo&theme=darkmode&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-- 🎓 I'm a student always learning in my free time.
+- 🎓 I'm a student (Etec Parque Belém - System Development) always learning in my free time.
 - 🌱 Learning: Java, Git/GitHub, HTML/CSS/JS, MySQL and more.  
 
 ---
