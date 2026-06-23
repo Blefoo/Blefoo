@@ -1,21 +1,19 @@
-# 👋 Oh!! I'm Bruno, but you can call me as Blefoo.
+# 👋 Eu me chamo Bruno, sou estudante do 2º ano do Ensino Médio
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Blefoo&theme=darkmode&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-- 🎓 I'm a student (Etec Sebrae - System Development) always learning in my free time.
-- 🌱 Learning: Java, Git/GitHub, HTML/CSS/JS, MySQL and more.  
+- 🎓 Desenvolvimento de Sistemas - ETEC Sebrae
+- 🌱 Habilidades: C#/.NET, ASP.NET, JavaScript, Git/GitHub, MySQL.  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blefoo)](https://github.com/anuraghazr/github-readme-stats)
 
 ---
 
-## 📫 How to reach me?
-
-⭐ Feel free to explore my repositories and connect with me!
+## 📫 Contatos
 
 > ⚡ **Discord**: `Blefoo`  
 > 🌐 **Instagram**: [bruno._lm](https://www.instagram.com/bruno._lm/)  
