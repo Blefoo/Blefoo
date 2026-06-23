@@ -1,6 +1,5 @@
 # 👋 Eu me chamo Bruno, sou estudante do 2º ano do Ensino Médio
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Blefoo&theme=darkmode&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 - 🎓 Desenvolvimento de Sistemas - ETEC Sebrae
 - 🌱 Habilidades: C#/.NET, ASP.NET, JavaScript, Git/GitHub, MySQL.  
