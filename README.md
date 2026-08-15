@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blefoo)](https://github.com/anuraghazr/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=blefoo)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
